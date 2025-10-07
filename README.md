@@ -1,5 +1,3 @@
-# LLM_Prompt_Engineering_Lib
-
 
 # 🧠 LLM Prompt Engineering Library
 
