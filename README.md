@@ -1,10 +1,11 @@
 # LLM_Prompt_Engineering_Lib
-A modular, growing collection of prompt engineering examples designed for educational and practical use in LLM development. Includes categorized prompts, real-world templates, and community contributions. Ideal for developers, educators, and researchers exploring production-grade LLM applications.
+
 
 # 🧠 LLM Prompt Engineering Library
 
-Welcome to a curated and categorized library of **prompt engineering strategies**, maintained and improved continuously through real-world experiments, Udemy studies, and personal projects.
+Welcome to a curated and categorized library of **prompt engineering strategies**
 
+A modular, growing collection of prompt engineering examples designed for educational and practical use in LLM development. Includes categorized prompts, real-world templates, and community contributions. Ideal for developers, educators, and researchers exploring production-grade LLM applications.
 ## 🔍 What's Inside?
 
 - 📘 **Instructional Prompts**: Clear task-based instructions
