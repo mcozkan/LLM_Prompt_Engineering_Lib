@@ -19,3 +19,4 @@ A modular, growing collection of prompt engineering examples designed for educat
 To create a **living knowledge base** for LLM-based development — helping others learn from practical use-cases, while also improving your own prompt design skills.
 
 > Built with ❤️ by [@mcoz]([https://github.com/mcoz](https://github.com/mcozkan)) — contributions welcome!
+PaonsTech Software LTD
